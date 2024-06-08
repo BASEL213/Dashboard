@@ -1,0 +1,1500 @@
+Name,School,Major,cGPA,YEAR,INCOME
+Nora,     Engineering,  Material,3.3,2019,130000
+Khalid,     Engineering,     Civil,3.94,2020,130000
+Claire,Computer Science,        IT,2.72,2022,95000
+Michael,        Business, Marketing,3.1,2020,80000
+Mahmoud,        Business,Accounting,3.37,2019,80000
+Liam,Computer Science,        SW,3.79,2020,95000
+Layla,     Engineering,       CIE,3.9,2020,130000
+Emily Smith,        Business,   Finance,3.37,2023,80000
+Olivia Davis,Computer Science,      DSAI,3.92,2021,95000
+Sophia,         Science,  Nanotech,2.98,2021,100000
+Michael Wong,         Science,  Nanotech,3.08,2021,100000
+Fatima,     Engineering,     Civil,2.5,2020,130000
+Adam,     Engineering,       CIE,2.9,2020,130000
+Amelia,        Business,   Finance,3.7,2022,80000
+Gabriel,Computer Science,        SW,3.56,2021,95000
+Lucas,        Business, Marketing,2.83,2020,80000
+Grace,Computer Science,      DSAI,3.02,2020,95000
+Eleanor,         Science,Biomedical,2.53,2022,100000
+Charlotte,     Engineering,  Material,3.63,2023,130000
+Stella,Computer Science,        IT,2.07,2020,95000
+Ella,        Business,Accounting,2.72,2020,80000
+Zainab,     Engineering,       CIE,3.3,2023,130000
+William,        Business, Marketing,2.8,2023,80000
+Ethan,         Science,  Nanotech,2.29,2022,100000
+Amir,         Science,Biomedical,2.69,2023,100000
+Noah,Computer Science,        IT,2.58,2022,95000
+Dylan,     Engineering,     Civil,3.62,2021,130000
+Matthew,Computer Science,      DSAI,3.6,2023,95000
+Paisley,        Business,Accounting,3.65,2023,80000
+Alex Johnson,        Business,   Finance,2.56,2019,80000
+Landon,Computer Science,        SW,3.16,2020,95000
+Henry,     Engineering,  Material,2.26,2019,130000
+Connor,     Engineering,  Material,3.71,2020,130000
+Aurora,         Science,  Nanotech,3.47,2020,100000
+Audrey,Computer Science,      DSAI,2.88,2020,95000
+Anna,Computer Science,        SW,3.7,2023,95000
+Mason,        Business,   Finance,3.13,2023,80000
+Isabella,Computer Science,        IT,2.16,2022,95000
+Brooklyn,     Engineering,     Civil,2.58,2022,130000
+Luna,        Business, Marketing,2.72,2021,80000
+Jacob,         Science,Biomedical,2.24,2023,100000
+Evelyn,        Business,Accounting,3.76,2023,80000
+Emma,     Engineering,       CIE,3.04,2022,130000
+Savannah,Computer Science,      DSAI,2.34,2020,95000
+Caleb,        Business,   Finance,3.17,2019,80000
+Alexander,     Engineering,     Civil,3.26,2021,130000
+Oliver,         Science,  Nanotech,3.17,2019,100000
+Adrian,Computer Science,        IT,2.6,2019,95000
+Benjamin,        Business, Marketing,2.09,2023,80000
+Ryan,     Engineering,  Material,3.74,2022,130000
+Penelope,     Engineering,       CIE,3.92,2022,130000
+Joseph,Computer Science,        SW,2.72,2023,95000
+Addison,         Science,Biomedical,2.11,2023,100000
+Mia,        Business,Accounting,2.14,2020,80000
+Grace,Computer Science,      DSAI,3.03,2020,95000
+Jeremiah,     Engineering,     Civil,2.09,2023,130000
+Daniel,Computer Science,        SW,2.32,2019,95000
+Jackson,         Science,  Nanotech,3.5,2021,100000
+Hazel,        Business,   Finance,2.65,2023,80000
+Thomas,         Science,Biomedical,2.61,2023,100000
+Tariq,Computer Science,        IT,4,2020,95000
+Bella,     Engineering,  Material,3.21,2022,130000
+Aaliyah,     Engineering,       CIE,2.75,2022,130000
+Lillian,        Business,Accounting,2.77,2021,80000
+Ali,        Business, Marketing,3.53,2023,80000
+Maya,     Engineering,  Material,2.22,2022,130000
+Emily,         Science,  Nanotech,2.13,2023,100000
+Violet,         Science,Biomedical,2.58,2020,100000
+Jasmine,        Business,Accounting,3.77,2021,80000
+Lucy,        Business,   Finance,2.75,2019,80000
+Ava,        Business, Marketing,2.11,2021,80000
+David,Computer Science,        SW,2.39,2019,95000
+Samuel,     Engineering,     Civil,3.97,2019,130000
+Christopher,Computer Science,        IT,3.67,2022,95000
+Olivia,Computer Science,      DSAI,2.14,2019,95000
+Aiden,     Engineering,       CIE,3.17,2020,130000
+Camila,Computer Science,        IT,3.27,2023,95000
+William,     Engineering,  Material,2.93,2022,130000
+Elizabeth,     Engineering,       CIE,2.01,2020,130000
+Mohammed,        Business,   Finance,2.93,2023,80000
+Hunter,        Business,Accounting,3.76,2021,80000
+James,         Science,  Nanotech,3.38,2023,100000
+Liam Martinez,Computer Science,      DSAI,2.08,2022,95000
+Sarah Lee,         Science,Biomedical,3.73,2023,100000
+Ethan Miller,Computer Science,        SW,2.02,2023,95000
+Nathan,     Engineering,     Civil,4,2021,130000
+Riley,        Business, Marketing,3.49,2023,80000
+Ava Garcia,        Business,Accounting,3.21,2022,80000
+Lina,        Business,   Finance,2.18,2023,80000
+Amina,     Engineering,     Civil,2.74,2019,130000
+basel,Computer Science,        IT,3.9,2020,95000
+Sofia,         Science,Biomedical,2.68,2022,100000
+Asher,Computer Science,      DSAI,3.9,2021,95000
+Muhammad,Computer Science,        SW,3.1,2019,95000
+Karim,        Business, Marketing,3.07,2022,80000
+Chloe,     Engineering,  Material,3.59,2020,130000
+Brayden,     Engineering,       CIE,2.16,2023,130000
+Abigail,         Science,  Nanotech,2.37,2020,100000
+Ahmed,     Engineering,  Material,2.46,2023,130000
+Skylar,Computer Science,      DSAI,3.28,2023,95000
+Zahra,     Engineering,       CIE,2.84,2019,130000
+Aisha,     Engineering,     Civil,3.19,2020,130000
+Daniel Brown,Computer Science,        SW,3.97,2023,95000
+Ellie,        Business,   Finance,3.48,2023,80000
+Jonathan,         Science,  Nanotech,2.14,2022,100000
+rihana,        Business,Accounting,2.49,2023,80000
+Scarlett,Computer Science,        IT,3.78,2021,95000
+Elijah,        Business, Marketing,3.44,2021,80000
+Harper,         Science,Biomedical,2.51,2020,100000
+Isaac,     Engineering,       CIE,2.41,2023,130000
+Omar,Computer Science,        SW,2.04,2023,95000
+Nicholas,     Engineering,  Material,2.39,2021,130000
+Anthony,     Engineering,     Civil,2.92,2019,130000
+Avery,        Business,Accounting,3.71,2019,80000
+Zoey,         Science,  Nanotech,2.85,2022,100000
+Youssef,Computer Science,      DSAI,3.19,2023,95000
+Madison,        Business,   Finance,3.76,2020,80000
+Sophia Clark,Computer Science,        IT,3.79,2019,95000
+Christian,         Science,Biomedical,2.24,2019,100000
+Sophie,        Business, Marketing,3.15,2020,80000
+Hannah,Computer Science,        IT,2.45,2019,95000
+Andrew,     Engineering,  Material,2.1,2020,130000
+Zara,         Science,  Nanotech,2.36,2022,100000
+Lily,        Business, Marketing,2.34,2023,80000
+Luke,         Science,Biomedical,2.57,2019,100000
+Eli,        Business,Accounting,2.28,2021,80000
+Leah,     Engineering,     Civil,3.62,2021,130000
+Aaron,        Business,   Finance,3.58,2022,80000
+Hassan,     Engineering,       CIE,2.44,2019,130000
+Mariam,Computer Science,      DSAI,2.63,2019,95000
+Victoria,Computer Science,        SW,3.38,2023,95000
+Nour,        Business,   Finance,2.36,2021,80000
+Nora,Computer Science,        SW,2.16,2021,95000
+Khalid,     Engineering,     Civil,2.56,2022,130000
+Claire,     Engineering,  Material,3.86,2021,130000
+Michael,        Business, Marketing,2.21,2022,80000
+Mahmoud,         Science,Biomedical,3.97,2022,100000
+Liam,Computer Science,      DSAI,2.84,2020,95000
+Layla,     Engineering,       CIE,3.07,2022,130000
+Emily Smith,        Business,Accounting,2.63,2020,80000
+Olivia Davis,         Science,  Nanotech,2.59,2023,100000
+Sophia,Computer Science,        IT,3.63,2023,95000
+Michael Wong,Computer Science,        SW,2.05,2023,95000
+Fatima,Computer Science,        IT,2.26,2021,95000
+Adam,     Engineering,  Material,2.38,2023,130000
+Amelia,        Business,Accounting,3.13,2022,80000
+Gabriel,         Science,  Nanotech,3.38,2022,100000
+Lucas,        Business, Marketing,3.01,2023,80000
+Grace,        Business,   Finance,3.21,2019,80000
+Eleanor,Computer Science,      DSAI,2.48,2021,95000
+Charlotte,     Engineering,       CIE,2.83,2021,130000
+Stella,     Engineering,     Civil,3.82,2019,130000
+Ella,         Science,Biomedical,2.72,2022,100000
+Zainab,        Business,   Finance,3.44,2019,80000
+William,     Engineering,     Civil,3.24,2020,130000
+Ethan,     Engineering,       CIE,2.81,2019,130000
+Amir,Computer Science,        SW,2.72,2019,95000
+Noah,         Science,  Nanotech,2.9,2023,100000
+Dylan,Computer Science,        IT,2.03,2022,95000
+Matthew,Computer Science,      DSAI,2.95,2020,95000
+Paisley,         Science,Biomedical,2.91,2020,100000
+Alex Johnson,        Business,Accounting,2.87,2020,80000
+Landon,        Business, Marketing,3.74,2021,80000
+Henry,     Engineering,  Material,2.77,2021,130000
+Connor,Computer Science,      DSAI,2.73,2020,95000
+Aurora,        Business,Accounting,3.07,2021,80000
+Audrey,     Engineering,     Civil,2.87,2022,130000
+Anna,Computer Science,        SW,2.82,2019,95000
+Mason,        Business, Marketing,2.65,2021,80000
+Isabella,        Business,   Finance,3.39,2020,80000
+Brooklyn,         Science,Biomedical,3.63,2021,100000
+Luna,     Engineering,       CIE,2.11,2020,130000
+Jacob,Computer Science,        IT,2.07,2022,95000
+Evelyn,         Science,  Nanotech,3.14,2020,100000
+Emma,     Engineering,  Material,2.04,2019,130000
+Savannah,         Science,  Nanotech,2.24,2020,100000
+Caleb,     Engineering,     Civil,4,2021,130000
+Alexander,Computer Science,      DSAI,3.2,2019,95000
+Oliver,     Engineering,       CIE,2.12,2022,130000
+Adrian,Computer Science,        IT,2.73,2023,95000
+Benjamin,         Science,Biomedical,3.92,2020,100000
+Ryan,     Engineering,  Material,3.58,2019,130000
+Penelope,Computer Science,        SW,2.63,2021,95000
+Joseph,        Business,Accounting,3.84,2019,80000
+Addison,        Business,   Finance,3.46,2022,80000
+Mia,        Business, Marketing,2.52,2023,80000
+Grace,         Science,Biomedical,2.91,2019,100000
+Jeremiah,         Science,  Nanotech,2.48,2019,100000
+Daniel,Computer Science,      DSAI,2.23,2023,95000
+Jackson,     Engineering,     Civil,2.56,2022,130000
+Hazel,Computer Science,        SW,3.09,2021,95000
+Thomas,Computer Science,        IT,2.29,2021,95000
+Tariq,     Engineering,       CIE,2.48,2023,130000
+Bella,     Engineering,  Material,3.44,2022,130000
+Aaliyah,        Business, Marketing,2.29,2019,80000
+Lillian,        Business,Accounting,3.07,2021,80000
+Ali,        Business,   Finance,3.03,2023,80000
+Maya,         Science,Biomedical,2.14,2022,100000
+Emily,     Engineering,  Material,3.9,2020,130000
+Violet,     Engineering,       CIE,2.27,2023,130000
+Jasmine,         Science,  Nanotech,2.91,2019,100000
+Lucy,        Business,Accounting,3.07,2020,80000
+Ava,        Business, Marketing,2.41,2022,80000
+David,Computer Science,      DSAI,3.83,2019,95000
+Samuel,     Engineering,     Civil,3.7,2019,130000
+Christopher,Computer Science,        IT,3.79,2022,95000
+Olivia,Computer Science,        SW,2.64,2022,95000
+Aiden,        Business,   Finance,3.55,2023,80000
+Camila,         Science,Biomedical,3.04,2023,100000
+William,Computer Science,        SW,2.62,2019,95000
+Elizabeth,     Engineering,       CIE,2.87,2019,130000
+Mohammed,        Business,   Finance,2.15,2022,80000
+Hunter,     Engineering,  Material,2.86,2019,130000
+James,Computer Science,      DSAI,2.99,2023,95000
+Liam Martinez,Computer Science,        IT,2.16,2019,95000
+Sarah Lee,     Engineering,     Civil,2.37,2023,130000
+Ethan Miller,        Business,Accounting,2.22,2023,80000
+Nathan,         Science,  Nanotech,2.87,2022,100000
+Riley,        Business, Marketing,2.66,2022,80000
+Ava Garcia,Computer Science,        SW,3.39,2020,95000
+Lina,Computer Science,        IT,3.29,2021,95000
+Amina,        Business,   Finance,3.16,2019,80000
+basel,         Science,Biomedical,2.26,2023,100000
+Sofia,     Engineering,     Civil,2.77,2023,130000
+Asher,     Engineering,       CIE,2.44,2022,130000
+Muhammad,        Business,Accounting,2.26,2021,80000
+Karim,         Science,  Nanotech,3.39,2021,100000
+Chloe,        Business, Marketing,3.69,2023,80000
+Brayden,     Engineering,  Material,2.92,2019,130000
+Abigail,Computer Science,      DSAI,3.38,2021,95000
+Ahmed,        Business,   Finance,3.18,2022,80000
+Skylar,         Science,Biomedical,3.32,2022,100000
+Zahra,     Engineering,     Civil,2.98,2022,130000
+Aisha,     Engineering,  Material,2.46,2022,130000
+Daniel Brown,        Business,Accounting,3.81,2020,80000
+Ellie,     Engineering,       CIE,3.85,2020,130000
+Jonathan,Computer Science,        IT,2.56,2020,95000
+rihana,Computer Science,      DSAI,2.82,2022,95000
+Scarlett,        Business, Marketing,3.67,2021,80000
+Elijah,Computer Science,        SW,3.41,2020,95000
+Harper,         Science,  Nanotech,3.45,2021,100000
+Isaac,Computer Science,      DSAI,2.69,2022,95000
+Omar,Computer Science,        IT,2.79,2021,95000
+Nicholas,        Business,   Finance,3.24,2020,80000
+Anthony,     Engineering,       CIE,2.81,2023,130000
+Avery,         Science,  Nanotech,2.92,2021,100000
+Zoey,         Science,Biomedical,2.46,2019,100000
+Youssef,        Business, Marketing,2.4,2021,80000
+Madison,Computer Science,        SW,3.67,2021,95000
+Sophia Clark,     Engineering,     Civil,3.77,2019,130000
+Christian,     Engineering,  Material,3.02,2023,130000
+Sophie,        Business,Accounting,2.06,2022,80000
+Hannah,        Business, Marketing,3.36,2022,80000
+Andrew,     Engineering,       CIE,2.74,2020,130000
+Zara,     Engineering,  Material,3.83,2023,130000
+Lily,        Business,Accounting,2.36,2021,80000
+Luke,         Science,Biomedical,2.91,2021,100000
+Eli,         Science,  Nanotech,2.28,2020,100000
+Leah,Computer Science,        SW,2.97,2022,95000
+Aaron,Computer Science,        IT,2.97,2021,95000
+Hassan,     Engineering,     Civil,3.9,2023,130000
+Mariam,        Business,   Finance,3.27,2019,80000
+Victoria,Computer Science,      DSAI,3.69,2021,95000
+Nour,     Engineering,     Civil,3.64,2019,130000
+Nora,         Science,Biomedical,2.45,2019,100000
+Khalid,Computer Science,        SW,2.81,2022,95000
+Claire,         Science,  Nanotech,3.91,2019,100000
+Michael,        Business, Marketing,2.85,2020,80000
+Mahmoud,Computer Science,      DSAI,3.5,2021,95000
+Liam,        Business,Accounting,3.85,2020,80000
+Layla,     Engineering,  Material,3.97,2023,130000
+Emily Smith,        Business,   Finance,3.59,2022,80000
+Olivia Davis,     Engineering,       CIE,3.18,2021,130000
+Sophia,Computer Science,        IT,2.71,2021,95000
+Michael Wong,Computer Science,      DSAI,3.55,2020,95000
+Fatima,        Business,Accounting,3.32,2022,80000
+Adam,         Science,Biomedical,3.61,2023,100000
+Amelia,        Business,   Finance,2.42,2023,80000
+Gabriel,     Engineering,       CIE,2.57,2020,130000
+Lucas,     Engineering,     Civil,2.6,2021,130000
+Grace,        Business, Marketing,2.76,2022,80000
+Eleanor,     Engineering,  Material,2.33,2023,130000
+Charlotte,Computer Science,        IT,2.67,2020,95000
+Stella,         Science,  Nanotech,3.07,2019,100000
+Ella,Computer Science,        SW,2.31,2019,95000
+Zainab,Computer Science,        IT,3,2019,95000
+William,Computer Science,        SW,2.73,2021,95000
+Ethan,         Science,Biomedical,2.91,2021,100000
+Amir,        Business,Accounting,3.11,2019,80000
+Noah,     Engineering,     Civil,2.41,2020,130000
+Dylan,Computer Science,      DSAI,3.55,2020,95000
+Matthew,        Business, Marketing,2.65,2023,80000
+Paisley,         Science,  Nanotech,2.94,2021,100000
+Alex Johnson,     Engineering,       CIE,3.84,2023,130000
+Landon,        Business,   Finance,2.74,2020,80000
+Henry,     Engineering,  Material,2.4,2020,130000
+Connor,Computer Science,        SW,3.45,2021,95000
+Aurora,         Science,  Nanotech,3.43,2022,100000
+Audrey,     Engineering,     Civil,3.95,2023,130000
+Anna,        Business,   Finance,3.12,2022,80000
+Mason,        Business,Accounting,2.76,2021,80000
+Isabella,     Engineering,  Material,2.61,2019,130000
+Brooklyn,     Engineering,       CIE,2.08,2021,130000
+Luna,        Business, Marketing,2.62,2023,80000
+Jacob,Computer Science,      DSAI,2.43,2022,95000
+Evelyn,         Science,Biomedical,2,2020,100000
+Emma,Computer Science,        IT,2.27,2021,95000
+Savannah,Computer Science,        IT,2.16,2021,95000
+Caleb,         Science,Biomedical,3.49,2021,100000
+Alexander,        Business,   Finance,2.15,2023,80000
+Oliver,     Engineering,     Civil,3.53,2021,130000
+Adrian,Computer Science,        SW,2.77,2022,95000
+Benjamin,     Engineering,       CIE,3.95,2019,130000
+Ryan,        Business,Accounting,2.57,2021,80000
+Penelope,         Science,  Nanotech,2.07,2019,100000
+Joseph,     Engineering,  Material,3.9,2020,130000
+Addison,Computer Science,      DSAI,2.67,2019,95000
+Mia,        Business, Marketing,3.81,2022,80000
+Grace,         Science,  Nanotech,3.06,2020,100000
+Jeremiah,        Business,   Finance,3.63,2023,80000
+Daniel,     Engineering,       CIE,2.98,2023,130000
+Jackson,        Business,Accounting,2.33,2022,80000
+Hazel,Computer Science,        SW,2.67,2022,95000
+Thomas,Computer Science,        IT,3.66,2020,95000
+Tariq,     Engineering,     Civil,2.87,2019,130000
+Bella,        Business, Marketing,3.67,2019,80000
+Aaliyah,Computer Science,      DSAI,2.36,2023,95000
+Lillian,         Science,Biomedical,2.93,2020,100000
+Ali,     Engineering,  Material,2.27,2019,130000
+Maya,        Business,Accounting,3.01,2022,80000
+Emily,     Engineering,       CIE,3.3,2020,130000
+Violet,        Business, Marketing,3.85,2020,80000
+Jasmine,        Business,   Finance,3.42,2019,80000
+Lucy,         Science,Biomedical,3.39,2020,100000
+Ava,     Engineering,  Material,3.35,2023,130000
+David,Computer Science,        SW,3.53,2020,95000
+Samuel,         Science,  Nanotech,3.43,2019,100000
+Christopher,Computer Science,      DSAI,3.16,2020,95000
+Olivia,Computer Science,        IT,2.68,2021,95000
+Aiden,     Engineering,     Civil,3.59,2022,130000
+Camila,        Business,Accounting,2.13,2021,80000
+William,         Science,  Nanotech,3.04,2021,100000
+Elizabeth,        Business, Marketing,3.13,2023,80000
+Mohammed,         Science,Biomedical,2.16,2022,100000
+Hunter,        Business,   Finance,2,2021,80000
+James,     Engineering,       CIE,3.89,2020,130000
+Liam Martinez,Computer Science,        SW,3.38,2019,95000
+Sarah Lee,     Engineering,  Material,3.01,2019,130000
+Ethan Miller,Computer Science,        IT,2.19,2019,95000
+Nathan,Computer Science,      DSAI,2.22,2022,95000
+Riley,     Engineering,     Civil,3.61,2020,130000
+Ava Garcia,Computer Science,        SW,2.71,2023,95000
+Lina,        Business, Marketing,2.27,2023,80000
+Amina,     Engineering,  Material,3.98,2019,130000
+basel,         Science,  Nanotech,3.62,2023,100000
+Sofia,     Engineering,       CIE,3.28,2019,130000
+Asher,        Business,   Finance,3.91,2020,80000
+Muhammad,Computer Science,        IT,3.13,2020,95000
+Karim,        Business,Accounting,3.94,2023,80000
+Chloe,     Engineering,     Civil,3.79,2022,130000
+Brayden,Computer Science,      DSAI,2.15,2020,95000
+Abigail,         Science,Biomedical,2.2,2019,100000
+Ahmed,        Business, Marketing,2.47,2023,80000
+Skylar,         Science,Biomedical,2.6,2019,100000
+Zahra,     Engineering,     Civil,2.23,2020,130000
+Aisha,        Business,   Finance,2.47,2019,80000
+Daniel Brown,Computer Science,        IT,3.38,2022,95000
+Ellie,     Engineering,       CIE,2.45,2021,130000
+Jonathan,Computer Science,        SW,3.07,2020,95000
+rihana,        Business,Accounting,3.19,2023,80000
+Scarlett,     Engineering,  Material,2.87,2021,130000
+Elijah,         Science,  Nanotech,3.6,2022,100000
+Harper,Computer Science,      DSAI,3.99,2021,95000
+Isaac,Computer Science,        IT,3.25,2020,95000
+Omar,Computer Science,        SW,3.52,2019,95000
+Nicholas,Computer Science,      DSAI,3.01,2023,95000
+Anthony,         Science,  Nanotech,2.43,2020,100000
+Avery,         Science,Biomedical,2.4,2022,100000
+Zoey,        Business,Accounting,3.85,2022,80000
+Youssef,     Engineering,       CIE,3.57,2021,130000
+Madison,        Business, Marketing,3.55,2020,80000
+Sophia Clark,        Business,   Finance,3.93,2022,80000
+Christian,     Engineering,  Material,3.02,2021,130000
+Sophie,     Engineering,     Civil,3.22,2021,130000
+Hannah,Computer Science,      DSAI,3.04,2022,95000
+Andrew,        Business,   Finance,3.17,2019,80000
+Zara,         Science,Biomedical,2.61,2021,100000
+Lily,         Science,  Nanotech,3.77,2019,100000
+Luke,     Engineering,       CIE,2.48,2020,130000
+Eli,Computer Science,        SW,3.05,2021,95000
+Leah,Computer Science,        IT,2.72,2022,95000
+Aaron,     Engineering,  Material,2.18,2021,130000
+Hassan,        Business,Accounting,2.83,2021,80000
+Mariam,        Business, Marketing,2.43,2023,80000
+Victoria,     Engineering,     Civil,2.12,2019,130000
+Nour,Computer Science,      DSAI,3.72,2020,95000
+Nora,     Engineering,       CIE,2.86,2023,130000
+Khalid,        Business, Marketing,3.07,2021,80000
+Claire,         Science,  Nanotech,3.96,2019,100000
+Michael,     Engineering,     Civil,3.52,2023,130000
+Mahmoud,        Business,   Finance,2.29,2021,80000
+Liam,         Science,Biomedical,3.33,2022,100000
+Layla,     Engineering,  Material,3.77,2019,130000
+Emily Smith,        Business,Accounting,2.23,2020,80000
+Olivia Davis,Computer Science,        SW,2.97,2022,95000
+Sophia,Computer Science,        IT,3.41,2020,95000
+Michael Wong,Computer Science,      DSAI,2.6,2021,95000
+Fatima,     Engineering,     Civil,2.8,2023,130000
+Adam,        Business,   Finance,3.05,2022,80000
+Amelia,Computer Science,        SW,3.25,2022,95000
+Gabriel,        Business, Marketing,3.27,2021,80000
+Lucas,         Science,Biomedical,2.62,2023,100000
+Grace,Computer Science,        IT,2.74,2021,95000
+Eleanor,        Business,Accounting,3.96,2022,80000
+Charlotte,     Engineering,  Material,3.29,2022,130000
+Stella,         Science,  Nanotech,3,2019,100000
+Ella,     Engineering,       CIE,2.55,2022,130000
+Zainab,         Science,Biomedical,3.18,2023,100000
+William,        Business,Accounting,2.51,2019,80000
+Ethan,     Engineering,  Material,2.06,2021,130000
+Amir,        Business,   Finance,2.39,2020,80000
+Noah,Computer Science,        IT,3.4,2022,95000
+Dylan,        Business, Marketing,2.85,2019,80000
+Matthew,         Science,  Nanotech,3.4,2021,100000
+Paisley,     Engineering,       CIE,2.05,2020,130000
+Alex Johnson,Computer Science,        SW,3.77,2023,95000
+Landon,     Engineering,     Civil,3.46,2020,130000
+Henry,Computer Science,      DSAI,3.74,2019,95000
+Connor,        Business,Accounting,2.26,2021,80000
+Aurora,     Engineering,       CIE,3.22,2020,130000
+Audrey,Computer Science,      DSAI,2.95,2023,95000
+Anna,     Engineering,     Civil,3.34,2022,130000
+Mason,         Science,Biomedical,2.12,2021,100000
+Isabella,        Business, Marketing,3.13,2023,80000
+Brooklyn,     Engineering,  Material,2.43,2019,130000
+Luna,         Science,  Nanotech,3.27,2021,100000
+Jacob,Computer Science,        SW,3.3,2019,95000
+Evelyn,Computer Science,        IT,2.24,2023,95000
+Emma,        Business,   Finance,2.49,2019,80000
+Savannah,         Science,Biomedical,3.19,2021,100000
+Caleb,     Engineering,       CIE,3.18,2019,130000
+Alexander,Computer Science,        SW,3,2020,95000
+Oliver,Computer Science,        IT,2.73,2020,95000
+Adrian,     Engineering,     Civil,3.95,2020,130000
+Benjamin,Computer Science,      DSAI,3.98,2022,95000
+Ryan,        Business, Marketing,3.07,2021,80000
+Penelope,         Science,  Nanotech,2.5,2022,100000
+Joseph,     Engineering,  Material,2.75,2021,130000
+Addison,        Business,   Finance,3.66,2020,80000
+Mia,        Business,Accounting,3.67,2020,80000
+Grace,        Business, Marketing,2.57,2019,80000
+Jeremiah,         Science,Biomedical,3.71,2020,100000
+Daniel,        Business,   Finance,3.4,2020,80000
+Jackson,Computer Science,        IT,2.96,2023,95000
+Hazel,     Engineering,     Civil,2.16,2020,130000
+Thomas,Computer Science,        SW,3.98,2022,95000
+Tariq,     Engineering,       CIE,2.31,2019,130000
+Bella,Computer Science,      DSAI,3.91,2022,95000
+Aaliyah,     Engineering,  Material,3.01,2020,130000
+Lillian,         Science,  Nanotech,3.69,2022,100000
+Ali,        Business,Accounting,2.84,2022,80000
+Maya,Computer Science,        IT,2.33,2023,95000
+Emily,         Science,Biomedical,3.87,2022,100000
+Violet,        Business,   Finance,2.3,2023,80000
+Jasmine,Computer Science,        SW,2.63,2019,95000
+Lucy,        Business, Marketing,4,2019,80000
+Ava,Computer Science,      DSAI,2.96,2022,95000
+David,        Business,Accounting,2.49,2021,80000
+Samuel,         Science,  Nanotech,3.97,2022,100000
+Christopher,     Engineering,     Civil,3.61,2022,130000
+Olivia,     Engineering,       CIE,2.73,2023,130000
+Aiden,     Engineering,  Material,2.28,2019,130000
+Camila,     Engineering,     Civil,2.07,2019,130000
+William,        Business,Accounting,2.19,2023,80000
+Elizabeth,        Business, Marketing,2.56,2021,80000
+Mohammed,     Engineering,  Material,3.64,2022,130000
+Hunter,Computer Science,        IT,2.07,2021,95000
+James,Computer Science,        SW,3.05,2023,95000
+Liam Martinez,         Science,Biomedical,3.6,2022,100000
+Sarah Lee,         Science,  Nanotech,3.78,2020,100000
+Ethan Miller,        Business,   Finance,2.27,2021,80000
+Nathan,     Engineering,       CIE,3.41,2021,130000
+Riley,Computer Science,      DSAI,2.11,2019,95000
+Ava Garcia,     Engineering,  Material,2.77,2022,130000
+Lina,     Engineering,       CIE,2.67,2022,130000
+Amina,Computer Science,        SW,3.38,2021,95000
+basel,     Engineering,     Civil,2.45,2023,130000
+Sofia,        Business,   Finance,2.78,2019,80000
+Asher,        Business,Accounting,2.94,2019,80000
+Muhammad,         Science,  Nanotech,3.93,2019,100000
+Karim,         Science,Biomedical,2.03,2019,100000
+Chloe,Computer Science,      DSAI,2.78,2023,95000
+Brayden,Computer Science,        IT,3.5,2021,95000
+Abigail,        Business, Marketing,3.99,2021,80000
+Ahmed,         Science,  Nanotech,3.03,2022,100000
+Skylar,     Engineering,  Material,2.38,2022,130000
+Zahra,Computer Science,        IT,3.55,2021,95000
+Aisha,     Engineering,     Civil,2.75,2021,130000
+Daniel Brown,        Business, Marketing,3.21,2020,80000
+Ellie,        Business,   Finance,3.87,2021,80000
+Jonathan,Computer Science,      DSAI,3.09,2023,95000
+rihana,     Engineering,       CIE,3.45,2019,130000
+Scarlett,         Science,Biomedical,3.33,2022,100000
+Elijah,        Business,Accounting,2.85,2022,80000
+Harper,Computer Science,        SW,3.82,2021,95000
+Isaac,     Engineering,       CIE,2.26,2022,130000
+Omar,        Business,   Finance,3.53,2019,80000
+Nicholas,     Engineering,  Material,2.45,2020,130000
+Anthony,     Engineering,     Civil,3.5,2023,130000
+Avery,        Business, Marketing,2.27,2019,80000
+Zoey,Computer Science,        IT,3.05,2023,95000
+Youssef,         Science,Biomedical,3.53,2020,100000
+Madison,         Science,  Nanotech,3.16,2022,100000
+Sophia Clark,Computer Science,      DSAI,2.42,2019,95000
+Christian,Computer Science,        SW,3.28,2021,95000
+Sophie,        Business,Accounting,3.97,2019,80000
+Hannah,     Engineering,  Material,3.16,2022,130000
+Andrew,         Science,Biomedical,2.42,2022,100000
+Zara,     Engineering,       CIE,3.67,2020,130000
+Lily,     Engineering,     Civil,3.12,2023,130000
+Luke,        Business,   Finance,2.49,2019,80000
+Eli,         Science,  Nanotech,3.74,2022,100000
+Leah,Computer Science,        SW,2.37,2019,95000
+Aaron,Computer Science,      DSAI,3.73,2022,95000
+Hassan,        Business, Marketing,2.23,2020,80000
+Mariam,        Business,Accounting,2.83,2022,80000
+Victoria,Computer Science,        IT,2.94,2020,95000
+Nour,         Science,  Nanotech,3.88,2021,100000
+Nora,Computer Science,      DSAI,3.82,2021,95000
+Khalid,Computer Science,        IT,3.31,2023,95000
+Claire,Computer Science,        SW,3.68,2021,95000
+Michael,     Engineering,       CIE,3.97,2022,130000
+Mahmoud,        Business,   Finance,2.18,2022,80000
+Liam,     Engineering,     Civil,3.56,2019,130000
+Layla,         Science,Biomedical,3.19,2021,100000
+Emily Smith,        Business, Marketing,2.28,2021,80000
+Olivia Davis,     Engineering,  Material,2.81,2019,130000
+Sophia,        Business,Accounting,2.51,2019,80000
+Michael Wong,Computer Science,      DSAI,3.38,2019,95000
+Fatima,        Business,Accounting,2.06,2019,80000
+Adam,         Science,Biomedical,2.48,2022,100000
+Amelia,     Engineering,       CIE,3.19,2019,130000
+Gabriel,     Engineering,  Material,3.41,2021,130000
+Lucas,        Business, Marketing,2.26,2020,80000
+Grace,         Science,  Nanotech,2.05,2023,100000
+Eleanor,Computer Science,        SW,3.34,2020,95000
+Charlotte,Computer Science,        IT,2.13,2023,95000
+Stella,     Engineering,     Civil,3.71,2021,130000
+Ella,        Business,   Finance,3.85,2023,80000
+Zainab,        Business,   Finance,3.07,2023,80000
+William,        Business, Marketing,3.23,2021,80000
+Ethan,        Business,Accounting,3.49,2023,80000
+Amir,     Engineering,  Material,2.94,2019,130000
+Noah,Computer Science,      DSAI,3.03,2019,95000
+Dylan,Computer Science,        SW,2.47,2020,95000
+Matthew,Computer Science,        IT,2.14,2021,95000
+Paisley,     Engineering,     Civil,3.65,2021,130000
+Alex Johnson,         Science,Biomedical,3.31,2021,100000
+Landon,     Engineering,       CIE,2.98,2022,130000
+Henry,         Science,  Nanotech,3.97,2020,100000
+Connor,Computer Science,      DSAI,2.39,2022,95000
+Aurora,        Business, Marketing,2,2020,80000
+Audrey,Computer Science,        IT,2.38,2020,95000
+Anna,        Business,   Finance,2.22,2020,80000
+Mason,Computer Science,        SW,2.24,2022,95000
+Isabella,     Engineering,     Civil,2.76,2019,130000
+Brooklyn,     Engineering,       CIE,2.59,2023,130000
+Luna,     Engineering,  Material,2.89,2023,130000
+Jacob,        Business,Accounting,3.15,2022,80000
+Evelyn,         Science,Biomedical,2.63,2022,100000
+Emma,         Science,  Nanotech,3.67,2023,100000
+Savannah,     Engineering,  Material,2.31,2020,130000
+Caleb,Computer Science,        SW,2.75,2019,95000
+Alexander,         Science,Biomedical,2.92,2019,100000
+Oliver,        Business,Accounting,3.11,2023,80000
+Adrian,Computer Science,      DSAI,3,2022,95000
+Benjamin,     Engineering,     Civil,3.86,2022,130000
+Ryan,        Business,   Finance,3.71,2023,80000
+Penelope,Computer Science,        IT,2.51,2023,95000
+Joseph,        Business, Marketing,3.31,2021,80000
+Addison,     Engineering,       CIE,2.85,2021,130000
+Mia,         Science,  Nanotech,2.74,2022,100000
+Grace,     Engineering,  Material,2.9,2021,130000
+Jeremiah,     Engineering,     Civil,3.43,2019,130000
+Daniel,Computer Science,        IT,3.1,2020,95000
+Jackson,Computer Science,        SW,2.83,2020,95000
+Hazel,     Engineering,       CIE,3.86,2023,130000
+Thomas,        Business,   Finance,2.3,2020,80000
+Tariq,         Science,Biomedical,3.18,2022,100000
+Bella,        Business, Marketing,2.8,2021,80000
+Aaliyah,        Business,Accounting,3.37,2021,80000
+Lillian,         Science,  Nanotech,2.99,2022,100000
+Ali,Computer Science,      DSAI,3.48,2021,95000
+Maya,         Science,  Nanotech,3.62,2019,100000
+Emily,        Business, Marketing,3.51,2023,80000
+Violet,Computer Science,        IT,3.49,2020,95000
+Jasmine,Computer Science,        SW,2.99,2021,95000
+Lucy,     Engineering,  Material,3.47,2019,130000
+Ava,         Science,Biomedical,3.08,2022,100000
+David,        Business,Accounting,2.33,2021,80000
+Samuel,Computer Science,      DSAI,3.44,2020,95000
+Christopher,     Engineering,     Civil,3.4,2019,130000
+Olivia,        Business,   Finance,2.2,2020,80000
+Aiden,     Engineering,       CIE,2.16,2020,130000
+Camila,Computer Science,        IT,3.22,2023,95000
+William,         Science,  Nanotech,2.66,2022,100000
+Elizabeth,        Business,   Finance,3.48,2023,80000
+Mohammed,     Engineering,     Civil,2.69,2020,130000
+Hunter,        Business,Accounting,2.91,2019,80000
+James,Computer Science,      DSAI,3.78,2019,95000
+Liam Martinez,         Science,Biomedical,3.79,2021,100000
+Sarah Lee,     Engineering,       CIE,2.89,2021,130000
+Ethan Miller,     Engineering,  Material,2.96,2021,130000
+Nathan,Computer Science,        SW,2.73,2021,95000
+Riley,        Business, Marketing,3.19,2019,80000
+Ava Garcia,         Science,  Nanotech,2.02,2020,100000
+Lina,Computer Science,        IT,3.13,2021,95000
+Amina,        Business, Marketing,2.1,2019,80000
+basel,        Business,Accounting,3.63,2019,80000
+Sofia,         Science,Biomedical,3.88,2021,100000
+Asher,Computer Science,      DSAI,2.82,2019,95000
+Muhammad,     Engineering,     Civil,2.26,2019,130000
+Karim,        Business,   Finance,2.37,2022,80000
+Chloe,     Engineering,       CIE,3.8,2019,130000
+Brayden,Computer Science,        SW,2.93,2023,95000
+Abigail,     Engineering,  Material,3.67,2023,130000
+Ahmed,Computer Science,        IT,2.72,2023,95000
+Skylar,     Engineering,       CIE,3.38,2023,130000
+Zahra,         Science,  Nanotech,3.95,2021,100000
+Aisha,Computer Science,      DSAI,2.36,2019,95000
+Daniel Brown,Computer Science,        SW,2.85,2019,95000
+Ellie,     Engineering,     Civil,2.63,2023,130000
+Jonathan,     Engineering,  Material,3.4,2021,130000
+rihana,        Business,   Finance,2.01,2023,80000
+Scarlett,         Science,Biomedical,2.62,2022,100000
+Elijah,        Business, Marketing,2.56,2020,80000
+Harper,        Business,Accounting,2.81,2022,80000
+Isaac,         Science,  Nanotech,2.33,2021,100000
+Omar,Computer Science,      DSAI,2.52,2019,95000
+Nicholas,     Engineering,  Material,2.45,2021,130000
+Anthony,         Science,Biomedical,3.08,2022,100000
+Avery,        Business, Marketing,3.06,2023,80000
+Zoey,        Business,   Finance,2.64,2023,80000
+Youssef,Computer Science,        SW,3.17,2020,95000
+Madison,        Business,Accounting,2.3,2023,80000
+Sophia Clark,     Engineering,       CIE,3.76,2020,130000
+Christian,     Engineering,     Civil,3.74,2019,130000
+Sophie,Computer Science,        IT,2.36,2020,95000
+Hannah,Computer Science,      DSAI,2.47,2021,95000
+Andrew,         Science,  Nanotech,2.42,2019,100000
+Zara,        Business, Marketing,3.74,2020,80000
+Lily,     Engineering,  Material,2.54,2020,130000
+Luke,        Business,Accounting,3.9,2020,80000
+Eli,        Business,   Finance,3.3,2020,80000
+Leah,Computer Science,        IT,3.28,2021,95000
+Aaron,     Engineering,     Civil,3.98,2023,130000
+Hassan,         Science,Biomedical,3.69,2019,100000
+Mariam,     Engineering,       CIE,2.91,2020,130000
+Victoria,Computer Science,        SW,2.28,2019,95000
+Nour,     Engineering,       CIE,3.26,2020,130000
+Nora,        Business, Marketing,3.4,2019,80000
+Khalid,     Engineering,     Civil,2.16,2023,130000
+Claire,Computer Science,        SW,2.72,2022,95000
+Michael,        Business,   Finance,3.51,2021,80000
+Mahmoud,Computer Science,      DSAI,2.94,2020,95000
+Liam,        Business,Accounting,3.93,2023,80000
+Layla,     Engineering,  Material,2.33,2019,130000
+Emily Smith,         Science,Biomedical,3.78,2022,100000
+Olivia Davis,         Science,  Nanotech,3.22,2020,100000
+Sophia,Computer Science,        IT,2.81,2023,95000
+Michael Wong,     Engineering,     Civil,3.53,2019,130000
+Fatima,Computer Science,        SW,3.03,2022,95000
+Adam,         Science,Biomedical,2.97,2019,100000
+Amelia,        Business,Accounting,2.63,2023,80000
+Gabriel,        Business,   Finance,3.76,2023,80000
+Lucas,     Engineering,       CIE,3.57,2020,130000
+Grace,         Science,  Nanotech,3.09,2022,100000
+Eleanor,     Engineering,  Material,3.3,2019,130000
+Charlotte,        Business, Marketing,3.13,2020,80000
+Stella,Computer Science,        IT,3.6,2022,95000
+Ella,Computer Science,      DSAI,2.75,2022,95000
+Zainab,     Engineering,       CIE,3.64,2023,130000
+William,     Engineering,  Material,3.13,2022,130000
+Ethan,        Business, Marketing,3.63,2021,80000
+Amir,        Business,   Finance,3.51,2022,80000
+Noah,Computer Science,      DSAI,3.51,2022,95000
+Dylan,        Business,Accounting,3.7,2019,80000
+Matthew,         Science,Biomedical,3.28,2020,100000
+Paisley,     Engineering,     Civil,3.09,2019,130000
+Alex Johnson,         Science,  Nanotech,3.26,2022,100000
+Landon,Computer Science,        IT,2.43,2020,95000
+Henry,Computer Science,        SW,2.34,2019,95000
+Connor,        Business, Marketing,2.73,2020,80000
+Aurora,        Business,Accounting,3.93,2022,80000
+Audrey,        Business,   Finance,2.37,2022,80000
+Anna,         Science,Biomedical,3.34,2021,100000
+Mason,     Engineering,  Material,2.22,2022,130000
+Isabella,         Science,  Nanotech,3.65,2023,100000
+Brooklyn,Computer Science,        IT,3.68,2020,95000
+Luna,     Engineering,     Civil,3.43,2022,130000
+Jacob,Computer Science,        SW,3.61,2021,95000
+Evelyn,     Engineering,       CIE,3.79,2021,130000
+Emma,Computer Science,      DSAI,2.85,2019,95000
+Savannah,Computer Science,        SW,3.5,2019,95000
+Caleb,        Business, Marketing,2.58,2020,80000
+Alexander,     Engineering,  Material,2.25,2023,130000
+Oliver,        Business,   Finance,2.74,2021,80000
+Adrian,     Engineering,       CIE,3.93,2022,130000
+Benjamin,     Engineering,     Civil,2.03,2023,130000
+Ryan,Computer Science,        IT,3.63,2019,95000
+Penelope,         Science,  Nanotech,3.87,2022,100000
+Joseph,Computer Science,      DSAI,2.19,2020,95000
+Addison,         Science,Biomedical,2.28,2019,100000
+Mia,        Business,Accounting,2.55,2020,80000
+Grace,         Science,  Nanotech,3.14,2023,100000
+Jeremiah,        Business,Accounting,3.78,2020,80000
+Daniel,        Business,   Finance,3.62,2022,80000
+Jackson,        Business, Marketing,3.45,2019,80000
+Hazel,Computer Science,        SW,2.68,2020,95000
+Thomas,Computer Science,        IT,3.53,2019,95000
+Tariq,Computer Science,      DSAI,3.42,2019,95000
+Bella,     Engineering,     Civil,2.94,2019,130000
+Aaliyah,     Engineering,  Material,3.02,2023,130000
+Lillian,     Engineering,       CIE,3.85,2022,130000
+Ali,         Science,Biomedical,2.66,2020,100000
+Maya,        Business, Marketing,2.05,2021,80000
+Emily,     Engineering,       CIE,2.5,2019,130000
+Violet,Computer Science,        SW,3.33,2019,95000
+Jasmine,         Science,Biomedical,2.65,2022,100000
+Lucy,Computer Science,        IT,2.98,2020,95000
+Ava,     Engineering,  Material,3.72,2019,130000
+David,     Engineering,     Civil,3.35,2023,130000
+Samuel,        Business,   Finance,2.69,2020,80000
+Christopher,         Science,  Nanotech,3.9,2019,100000
+Olivia,Computer Science,      DSAI,3.25,2021,95000
+Aiden,        Business,Accounting,3.32,2022,80000
+Camila,         Science,Biomedical,2.52,2022,100000
+William,        Business, Marketing,2.83,2020,80000
+Elizabeth,        Business,Accounting,3.54,2021,80000
+Mohammed,         Science,  Nanotech,3.4,2020,100000
+Hunter,Computer Science,      DSAI,2.92,2023,95000
+James,     Engineering,     Civil,3.22,2022,130000
+Liam Martinez,     Engineering,  Material,2.52,2020,130000
+Sarah Lee,Computer Science,        IT,3.75,2022,95000
+Ethan Miller,     Engineering,       CIE,3.14,2021,130000
+Nathan,Computer Science,        SW,3.6,2021,95000
+Riley,        Business,   Finance,2.63,2019,80000
+Ava Garcia,         Science,Biomedical,3.5,2020,100000
+Lina,     Engineering,  Material,2.42,2023,130000
+Amina,        Business,   Finance,2.35,2022,80000
+basel,Computer Science,      DSAI,3.92,2022,95000
+Sofia,     Engineering,     Civil,2.96,2022,130000
+Asher,        Business,Accounting,2.75,2022,80000
+Muhammad,         Science,  Nanotech,3.01,2019,100000
+Karim,        Business, Marketing,3.81,2019,80000
+Chloe,Computer Science,        SW,3.55,2021,95000
+Brayden,     Engineering,       CIE,2.91,2022,130000
+Abigail,Computer Science,        IT,2.69,2022,95000
+Ahmed,        Business, Marketing,3.8,2022,80000
+Skylar,Computer Science,        IT,3.38,2021,95000
+Zahra,        Business,   Finance,3.56,2021,80000
+Aisha,Computer Science,      DSAI,3.12,2023,95000
+Daniel Brown,     Engineering,       CIE,3.13,2020,130000
+Ellie,        Business,Accounting,2.42,2022,80000
+Jonathan,     Engineering,     Civil,2.03,2020,130000
+rihana,Computer Science,        SW,3.61,2020,95000
+Scarlett,         Science,  Nanotech,3.32,2021,100000
+Elijah,     Engineering,  Material,2.97,2019,130000
+Harper,         Science,Biomedical,2.64,2019,100000
+Isaac,     Engineering,  Material,2.59,2023,130000
+Omar,Computer Science,      DSAI,2.43,2020,95000
+Nicholas,        Business,   Finance,3.3,2019,80000
+Anthony,        Business,Accounting,3.79,2021,80000
+Avery,         Science,Biomedical,3.6,2020,100000
+Zoey,         Science,  Nanotech,2.12,2022,100000
+Youssef,        Business, Marketing,3.96,2020,80000
+Madison,Computer Science,        SW,2.56,2019,95000
+Sophia Clark,     Engineering,       CIE,3.91,2023,130000
+Christian,Computer Science,        IT,3.18,2023,95000
+Sophie,     Engineering,     Civil,3.51,2019,130000
+Hannah,     Engineering,     Civil,2.81,2023,130000
+Andrew,        Business,Accounting,3.94,2022,80000
+Zara,         Science,Biomedical,2.33,2022,100000
+Lily,Computer Science,        IT,2.63,2022,95000
+Luke,        Business,   Finance,2.14,2022,80000
+Eli,     Engineering,       CIE,2.9,2022,130000
+Leah,     Engineering,  Material,2.54,2022,130000
+Aaron,         Science,  Nanotech,2.92,2022,100000
+Hassan,        Business, Marketing,2.06,2023,80000
+Mariam,Computer Science,        SW,2.3,2020,95000
+Victoria,Computer Science,      DSAI,2.62,2023,95000
+Nour,        Business,   Finance,3.85,2020,80000
+Nora,        Business, Marketing,3.97,2023,80000
+Khalid,     Engineering,  Material,3.21,2020,130000
+Claire,         Science,Biomedical,3.2,2023,100000
+Michael,         Science,  Nanotech,3.09,2019,100000
+Mahmoud,     Engineering,       CIE,2.27,2020,130000
+Liam,Computer Science,        IT,3.45,2023,95000
+Layla,        Business,Accounting,2.7,2022,80000
+Emily Smith,Computer Science,      DSAI,2.11,2021,95000
+Olivia Davis,Computer Science,        SW,2.97,2019,95000
+Sophia,     Engineering,     Civil,2.47,2023,130000
+Michael Wong,Computer Science,        IT,3.5,2022,95000
+Fatima,Computer Science,        SW,2.2,2020,95000
+Adam,         Science,Biomedical,3.54,2023,100000
+Amelia,     Engineering,       CIE,2.84,2021,130000
+Gabriel,     Engineering,     Civil,3.47,2021,130000
+Lucas,         Science,  Nanotech,2.33,2021,100000
+Grace,        Business, Marketing,3.05,2019,80000
+Eleanor,     Engineering,  Material,3.44,2022,130000
+Charlotte,        Business,Accounting,2.9,2020,80000
+Stella,        Business,   Finance,3.95,2023,80000
+Ella,Computer Science,      DSAI,3.62,2020,95000
+Zainab,        Business, Marketing,3.97,2021,80000
+William,Computer Science,        SW,3.26,2020,95000
+Ethan,Computer Science,        IT,2.44,2019,95000
+Amir,     Engineering,     Civil,3.84,2020,130000
+Noah,     Engineering,  Material,3.94,2023,130000
+Dylan,         Science,Biomedical,3.66,2023,100000
+Matthew,        Business,Accounting,2.97,2023,80000
+Paisley,Computer Science,      DSAI,3.17,2020,95000
+Alex Johnson,        Business,   Finance,3.81,2022,80000
+Landon,     Engineering,       CIE,3.84,2019,130000
+Henry,         Science,  Nanotech,2.31,2022,100000
+Connor,     Engineering,       CIE,2.94,2023,130000
+Aurora,        Business, Marketing,2.91,2020,80000
+Audrey,        Business,Accounting,2.32,2023,80000
+Anna,         Science,Biomedical,3.12,2021,100000
+Mason,Computer Science,      DSAI,3.3,2021,95000
+Isabella,     Engineering,  Material,2.77,2023,130000
+Brooklyn,        Business,   Finance,3.19,2019,80000
+Luna,     Engineering,     Civil,3.11,2019,130000
+Jacob,         Science,  Nanotech,3.18,2020,100000
+Evelyn,Computer Science,        SW,3.98,2023,95000
+Emma,Computer Science,        IT,2.81,2019,95000
+Savannah,        Business,Accounting,2.76,2019,80000
+Caleb,Computer Science,        IT,2.07,2022,95000
+Alexander,        Business, Marketing,2.2,2023,80000
+Oliver,Computer Science,        SW,2.94,2023,95000
+Adrian,Computer Science,      DSAI,3.42,2023,95000
+Benjamin,     Engineering,     Civil,3.7,2019,130000
+Ryan,     Engineering,       CIE,2.37,2019,130000
+Penelope,     Engineering,  Material,3.98,2023,130000
+Joseph,        Business,   Finance,2.87,2019,80000
+Addison,         Science,Biomedical,2.28,2019,100000
+Mia,         Science,  Nanotech,3.86,2019,100000
+Grace,     Engineering,     Civil,3.42,2022,130000
+Jeremiah,     Engineering,       CIE,2.94,2023,130000
+Daniel,Computer Science,        SW,3.38,2022,95000
+Jackson,        Business,   Finance,2.47,2023,80000
+Hazel,Computer Science,        IT,2.73,2021,95000
+Thomas,        Business, Marketing,2.75,2020,80000
+Tariq,         Science,  Nanotech,2.39,2021,100000
+Bella,Computer Science,      DSAI,3.89,2019,95000
+Aaliyah,     Engineering,  Material,3.33,2021,130000
+Lillian,         Science,Biomedical,3.76,2023,100000
+Ali,        Business,Accounting,2.77,2021,80000
+Maya,         Science,Biomedical,2.21,2022,100000
+Emily,     Engineering,  Material,2.66,2021,130000
+Violet,Computer Science,        IT,3.55,2019,95000
+Jasmine,        Business,Accounting,2.6,2022,80000
+Lucy,Computer Science,      DSAI,3.29,2022,95000
+Ava,Computer Science,        SW,2.55,2022,95000
+David,        Business,   Finance,2.37,2023,80000
+Samuel,         Science,  Nanotech,2.11,2020,100000
+Christopher,     Engineering,       CIE,2.41,2019,130000
+Olivia,        Business, Marketing,2.91,2021,80000
+Aiden,     Engineering,     Civil,3.45,2021,130000
+Camila,Computer Science,      DSAI,2.4,2020,95000
+William,Computer Science,        IT,2.7,2022,95000
+Elizabeth,     Engineering,       CIE,2.17,2022,130000
+Mohammed,Computer Science,        SW,2.21,2023,95000
+Hunter,         Science,Biomedical,2.49,2019,100000
+James,        Business,   Finance,2.44,2022,80000
+Liam Martinez,        Business, Marketing,3.53,2020,80000
+Sarah Lee,         Science,  Nanotech,2.61,2019,100000
+Ethan Miller,     Engineering,  Material,2.13,2020,130000
+Nathan,     Engineering,     Civil,2.61,2021,130000
+Riley,        Business,Accounting,2.39,2020,80000
+Ava Garcia,         Science,  Nanotech,2.68,2023,100000
+Lina,Computer Science,      DSAI,2.8,2023,95000
+Amina,        Business,   Finance,3.31,2022,80000
+basel,        Business,Accounting,3.12,2019,80000
+Sofia,Computer Science,        IT,2.72,2019,95000
+Asher,        Business, Marketing,2.78,2020,80000
+Muhammad,         Science,Biomedical,2.56,2022,100000
+Karim,     Engineering,       CIE,2.1,2020,130000
+Chloe,Computer Science,        SW,2,2021,95000
+Brayden,     Engineering,     Civil,3.75,2023,130000
+Abigail,     Engineering,  Material,3.42,2020,130000
+Ahmed,Computer Science,      DSAI,3.1,2020,95000
+Skylar,Computer Science,        SW,2.36,2019,95000
+Zahra,         Science,  Nanotech,2.28,2020,100000
+Aisha,        Business,Accounting,2.27,2020,80000
+Daniel Brown,         Science,Biomedical,3.51,2022,100000
+Ellie,Computer Science,        IT,3.57,2023,95000
+Jonathan,        Business, Marketing,3.69,2022,80000
+rihana,     Engineering,  Material,2.51,2020,130000
+Scarlett,     Engineering,       CIE,2.51,2021,130000
+Elijah,        Business,   Finance,3.69,2022,80000
+Harper,     Engineering,     Civil,2.23,2023,130000
+Isaac,     Engineering,  Material,3.34,2022,130000
+Omar,        Business,   Finance,3.47,2022,80000
+Nicholas,     Engineering,     Civil,3.48,2020,130000
+Anthony,         Science,Biomedical,2.5,2019,100000
+Avery,Computer Science,        SW,2.81,2021,95000
+Zoey,        Business,Accounting,2.27,2021,80000
+Youssef,     Engineering,       CIE,2.32,2020,130000
+Madison,Computer Science,        IT,3.62,2019,95000
+Sophia Clark,Computer Science,      DSAI,3.21,2019,95000
+Christian,        Business, Marketing,3.39,2022,80000
+Sophie,         Science,  Nanotech,2.09,2023,100000
+Hannah,Computer Science,        SW,2.83,2020,95000
+Andrew,Computer Science,        IT,3.76,2020,95000
+Zara,        Business,   Finance,3.35,2023,80000
+Lily,         Science,Biomedical,2.33,2023,100000
+Luke,     Engineering,  Material,2.57,2022,130000
+Eli,     Engineering,     Civil,2.14,2022,130000
+Leah,        Business, Marketing,2.38,2020,80000
+Aaron,Computer Science,      DSAI,3.97,2021,95000
+Hassan,     Engineering,       CIE,2.56,2020,130000
+Mariam,        Business,Accounting,2.81,2021,80000
+Victoria,         Science,  Nanotech,2.97,2022,100000
+Nour,Computer Science,      DSAI,3.68,2023,95000
+Nora,         Science,  Nanotech,3.81,2023,100000
+Khalid,     Engineering,       CIE,3.96,2021,130000
+Claire,     Engineering,     Civil,2.67,2023,130000
+Michael,        Business,Accounting,3.3,2022,80000
+Mahmoud,        Business,   Finance,2.55,2023,80000
+Liam,         Science,Biomedical,3.93,2021,100000
+Layla,Computer Science,        IT,3.65,2022,95000
+Emily Smith,Computer Science,        SW,2.85,2019,95000
+Olivia Davis,     Engineering,  Material,3.91,2020,130000
+Sophia,        Business, Marketing,3.11,2019,80000
+Michael Wong,         Science,  Nanotech,4,2023,100000
+Fatima,        Business, Marketing,3.22,2023,80000
+Adam,Computer Science,        IT,3.74,2019,95000
+Amelia,     Engineering,       CIE,2.98,2020,130000
+Gabriel,        Business,Accounting,2.78,2022,80000
+Lucas,Computer Science,      DSAI,3.94,2023,95000
+Grace,         Science,Biomedical,3.64,2020,100000
+Eleanor,     Engineering,     Civil,3.01,2021,130000
+Charlotte,        Business,   Finance,3.41,2023,80000
+Stella,     Engineering,  Material,3.58,2020,130000
+Ella,Computer Science,        SW,3.92,2021,95000
+Zainab,        Business,Accounting,2,2021,80000
+William,     Engineering,       CIE,2.2,2021,130000
+Ethan,         Science,Biomedical,2.12,2021,100000
+Amir,     Engineering,  Material,2.61,2019,130000
+Noah,         Science,  Nanotech,3.08,2023,100000
+Dylan,     Engineering,     Civil,2.34,2021,130000
+Matthew,        Business,   Finance,2.8,2019,80000
+Paisley,Computer Science,        IT,2.6,2023,95000
+Alex Johnson,        Business, Marketing,3.91,2023,80000
+Landon,Computer Science,      DSAI,2.72,2022,95000
+Henry,Computer Science,        SW,3.66,2023,95000
+Connor,        Business,Accounting,2.32,2023,80000
+Aurora,Computer Science,        SW,3.11,2022,95000
+Audrey,     Engineering,       CIE,2.92,2021,130000
+Anna,Computer Science,        IT,3.13,2019,95000
+Mason,        Business, Marketing,3.19,2021,80000
+Isabella,         Science,Biomedical,2.44,2022,100000
+Brooklyn,        Business,   Finance,3.37,2019,80000
+Luna,Computer Science,      DSAI,3.99,2020,95000
+Jacob,         Science,  Nanotech,3.17,2020,100000
+Evelyn,     Engineering,  Material,2.85,2020,130000
+Emma,     Engineering,     Civil,3.29,2023,130000
+Savannah,        Business,Accounting,2.41,2021,80000
+Caleb,        Business, Marketing,3.2,2020,80000
+Alexander,         Science,Biomedical,2.39,2022,100000
+Oliver,        Business,   Finance,3.51,2020,80000
+Adrian,     Engineering,     Civil,2.47,2023,130000
+Benjamin,Computer Science,        IT,3.29,2023,95000
+Ryan,         Science,  Nanotech,3.36,2020,100000
+Penelope,Computer Science,        SW,3.9,2023,95000
+Joseph,     Engineering,  Material,3.86,2022,130000
+Addison,Computer Science,      DSAI,3.72,2019,95000
+Mia,     Engineering,       CIE,2.49,2019,130000
+Grace,Computer Science,        SW,2.77,2023,95000
+Jeremiah,         Science,  Nanotech,3.14,2020,100000
+Daniel,     Engineering,       CIE,3.92,2022,130000
+Jackson,        Business,Accounting,2.85,2022,80000
+Hazel,         Science,Biomedical,2.35,2023,100000
+Thomas,        Business, Marketing,3.22,2023,80000
+Tariq,Computer Science,        IT,3.08,2021,95000
+Bella,     Engineering,     Civil,2.5,2022,130000
+Aaliyah,        Business,   Finance,2.03,2021,80000
+Lillian,     Engineering,  Material,3.36,2020,130000
+Ali,Computer Science,      DSAI,3.96,2022,95000
+Maya,     Engineering,     Civil,3,2022,130000
+Emily,     Engineering,  Material,2.76,2020,130000
+Violet,Computer Science,      DSAI,4,2019,95000
+Jasmine,        Business,Accounting,2.6,2021,80000
+Lucy,        Business, Marketing,2.61,2019,80000
+Ava,     Engineering,       CIE,2.46,2019,130000
+David,         Science,  Nanotech,2.31,2023,100000
+Samuel,         Science,Biomedical,3.35,2020,100000
+Christopher,Computer Science,        IT,2.56,2019,95000
+Olivia,Computer Science,        SW,3.49,2021,95000
+Aiden,        Business,   Finance,2.35,2019,80000
+Camila,         Science,Biomedical,3.96,2021,100000
+William,        Business,   Finance,3.2,2019,80000
+Elizabeth,        Business,Accounting,3.73,2023,80000
+Mohammed,Computer Science,        IT,2.64,2021,95000
+Hunter,        Business, Marketing,2.91,2023,80000
+James,         Science,  Nanotech,3.1,2022,100000
+Liam Martinez,     Engineering,       CIE,3.29,2022,130000
+Sarah Lee,Computer Science,        SW,2.8,2023,95000
+Ethan Miller,     Engineering,  Material,2.57,2021,130000
+Nathan,Computer Science,      DSAI,2.78,2019,95000
+Riley,     Engineering,     Civil,3.94,2023,130000
+Ava Garcia,Computer Science,        IT,2.02,2021,95000
+Lina,Computer Science,        SW,2.6,2022,95000
+Amina,Computer Science,      DSAI,2.58,2022,95000
+basel,         Science,  Nanotech,2.09,2019,100000
+Sofia,         Science,Biomedical,3.81,2022,100000
+Asher,        Business,   Finance,3.33,2022,80000
+Muhammad,     Engineering,     Civil,3.89,2023,130000
+Karim,     Engineering,       CIE,2.6,2019,130000
+Chloe,        Business, Marketing,3.23,2023,80000
+Brayden,        Business,Accounting,3.71,2019,80000
+Abigail,     Engineering,  Material,3.73,2019,130000
+Ahmed,Computer Science,        IT,2.12,2021,95000
+Skylar,     Engineering,  Material,3.83,2019,130000
+Zahra,     Engineering,       CIE,2.08,2019,130000
+Aisha,        Business,Accounting,2.72,2022,80000
+Daniel Brown,     Engineering,     Civil,3.47,2022,130000
+Ellie,Computer Science,      DSAI,2.92,2023,95000
+Jonathan,         Science,  Nanotech,3.46,2020,100000
+rihana,        Business,   Finance,2.56,2023,80000
+Scarlett,Computer Science,        SW,2.15,2020,95000
+Elijah,        Business, Marketing,2.7,2021,80000
+Harper,         Science,Biomedical,3.08,2021,100000
+Isaac,        Business,   Finance,2.17,2022,80000
+Omar,     Engineering,       CIE,2,2019,130000
+Nicholas,Computer Science,      DSAI,3.38,2023,95000
+Anthony,Computer Science,        IT,2.88,2023,95000
+Avery,     Engineering,  Material,2.98,2020,130000
+Zoey,        Business, Marketing,2.92,2023,80000
+Youssef,         Science,  Nanotech,3.97,2023,100000
+Madison,         Science,Biomedical,2.66,2022,100000
+Sophia Clark,Computer Science,        SW,3.95,2021,95000
+Christian,        Business,Accounting,2.6,2023,80000
+Sophie,     Engineering,     Civil,2.39,2023,130000
+Hannah,Computer Science,      DSAI,3.83,2021,95000
+Andrew,        Business,Accounting,3.25,2020,80000
+Zara,     Engineering,  Material,2.66,2020,130000
+Lily,     Engineering,     Civil,2.39,2022,130000
+Luke,        Business,   Finance,3.91,2023,80000
+Eli,        Business, Marketing,3.53,2023,80000
+Leah,         Science,Biomedical,2.21,2022,100000
+Aaron,         Science,  Nanotech,2.26,2022,100000
+Hassan,Computer Science,        IT,2.49,2019,95000
+Mariam,     Engineering,       CIE,3.05,2020,130000
+Victoria,Computer Science,        SW,2.06,2021,95000
+Nour,        Business,   Finance,2.13,2022,80000
+Nora,Computer Science,      DSAI,2.95,2020,95000
+Khalid,     Engineering,  Material,2.31,2021,130000
+Claire,        Business,Accounting,3.69,2019,80000
+Michael,     Engineering,       CIE,2.28,2021,130000
+Mahmoud,        Business, Marketing,2.32,2022,80000
+Liam,         Science,  Nanotech,3.8,2021,100000
+Layla,         Science,Biomedical,2.48,2020,100000
+Emily Smith,     Engineering,     Civil,3.32,2021,130000
+Olivia Davis,Computer Science,        SW,3.33,2021,95000
+Sophia,Computer Science,        IT,2.55,2022,95000
+Michael Wong,Computer Science,        IT,3.15,2021,95000
+Fatima,Computer Science,      DSAI,3.37,2023,95000
+Adam,Computer Science,        SW,2.87,2021,95000
+Amelia,        Business,   Finance,3.75,2020,80000
+Gabriel,         Science,Biomedical,2.24,2021,100000
+Lucas,     Engineering,  Material,3.41,2019,130000
+Grace,         Science,  Nanotech,3.53,2023,100000
+Eleanor,     Engineering,       CIE,2.86,2023,130000
+Charlotte,        Business, Marketing,2.91,2023,80000
+Stella,     Engineering,     Civil,2.09,2022,130000
+Ella,        Business,Accounting,3.23,2019,80000
+Zainab,Computer Science,      DSAI,3.57,2023,95000
+William,     Engineering,       CIE,2.06,2020,130000
+Ethan,Computer Science,        IT,2.49,2022,95000
+Amir,     Engineering,  Material,2.43,2020,130000
+Noah,        Business,Accounting,2.56,2022,80000
+Dylan,         Science,  Nanotech,3.13,2021,100000
+Matthew,         Science,Biomedical,3.66,2020,100000
+Paisley,        Business, Marketing,2.86,2022,80000
+Alex Johnson,        Business,   Finance,3.2,2019,80000
+Landon,Computer Science,        SW,2.57,2023,95000
+Henry,     Engineering,     Civil,2.31,2019,130000
+Connor,     Engineering,       CIE,2.01,2023,130000
+Aurora,         Science,Biomedical,3.58,2020,100000
+Audrey,Computer Science,        IT,2.48,2023,95000
+Anna,Computer Science,        SW,2.67,2023,95000
+Mason,     Engineering,     Civil,3.76,2020,130000
+Isabella,        Business,   Finance,2.46,2021,80000
+Brooklyn,         Science,  Nanotech,3.12,2023,100000
+Luna,        Business, Marketing,3.13,2023,80000
+Jacob,Computer Science,      DSAI,2.34,2021,95000
+Evelyn,        Business,Accounting,3.29,2022,80000
+Emma,     Engineering,  Material,2.8,2023,130000
+Savannah,Computer Science,        IT,3.55,2022,95000
+Caleb,     Engineering,  Material,3.38,2019,130000
+Alexander,Computer Science,      DSAI,2.37,2023,95000
+Oliver,     Engineering,       CIE,2.34,2023,130000
+Adrian,        Business,Accounting,2.34,2023,80000
+Benjamin,     Engineering,     Civil,2.89,2023,130000
+Ryan,        Business,   Finance,3.58,2023,80000
+Penelope,Computer Science,        SW,2.86,2023,95000
+Joseph,         Science,Biomedical,3.34,2020,100000
+Addison,         Science,  Nanotech,3,2019,100000
+Mia,        Business, Marketing,3.24,2023,80000
+Grace,     Engineering,  Material,3.04,2023,130000
+Jeremiah,         Science,  Nanotech,3.32,2022,100000
+Daniel,Computer Science,        SW,2.97,2021,95000
+Jackson,        Business,Accounting,2.54,2023,80000
+Hazel,         Science,Biomedical,3.54,2020,100000
+Thomas,     Engineering,     Civil,3.86,2022,130000
+Tariq,Computer Science,      DSAI,2.04,2023,95000
+Bella,        Business, Marketing,3.5,2023,80000
+Aaliyah,        Business,   Finance,3.85,2020,80000
+Lillian,Computer Science,        IT,3.16,2023,95000
+Ali,     Engineering,       CIE,2.92,2021,130000
+Maya,     Engineering,     Civil,2.96,2020,130000
+Emily,        Business,Accounting,3.88,2022,80000
+Violet,         Science,Biomedical,3.48,2023,100000
+Jasmine,        Business, Marketing,3.1,2022,80000
+Lucy,Computer Science,      DSAI,2.15,2021,95000
+Ava,        Business,   Finance,2.94,2021,80000
+David,Computer Science,        IT,2.89,2020,95000
+Samuel,     Engineering,  Material,3.19,2020,130000
+Christopher,     Engineering,       CIE,2.05,2019,130000
+Olivia,Computer Science,        SW,2.13,2021,95000
+Aiden,         Science,  Nanotech,3.28,2022,100000
+Camila,        Business, Marketing,3.54,2021,80000
+William,         Science,  Nanotech,2.71,2020,100000
+Elizabeth,         Science,Biomedical,2.32,2021,100000
+Mohammed,        Business,Accounting,3.02,2022,80000
+Hunter,Computer Science,      DSAI,3.26,2023,95000
+James,     Engineering,     Civil,2.1,2020,130000
+Liam Martinez,Computer Science,        IT,2.44,2021,95000
+Sarah Lee,        Business,   Finance,2.98,2022,80000
+Ethan Miller,Computer Science,        SW,3.83,2023,95000
+Nathan,     Engineering,       CIE,2.2,2020,130000
+Riley,     Engineering,  Material,3.96,2019,130000
+Ava Garcia,     Engineering,       CIE,3.19,2023,130000
+Lina,         Science,  Nanotech,3,2020,100000
+Amina,        Business,   Finance,3.62,2022,80000
+basel,     Engineering,     Civil,2.22,2022,130000
+Sofia,Computer Science,      DSAI,3.39,2023,95000
+Asher,        Business, Marketing,3.24,2020,80000
+Muhammad,Computer Science,        SW,3.26,2020,95000
+Karim,         Science,Biomedical,3.53,2021,100000
+Chloe,        Business,Accounting,3.11,2020,80000
+Brayden,Computer Science,        IT,3.23,2023,95000
+Abigail,     Engineering,  Material,2.32,2023,130000
+Ahmed,     Engineering,  Material,2.45,2022,130000
+Skylar,Computer Science,        SW,3.88,2019,95000
+Zahra,        Business, Marketing,2.08,2023,80000
+Aisha,        Business,   Finance,2.79,2019,80000
+Daniel Brown,        Business,Accounting,2.34,2021,80000
+Ellie,     Engineering,       CIE,2.42,2019,130000
+Jonathan,Computer Science,        IT,3.03,2022,95000
+rihana,Computer Science,      DSAI,2.37,2022,95000
+Scarlett,         Science,  Nanotech,2.09,2023,100000
+Elijah,         Science,Biomedical,2.54,2022,100000
+Harper,     Engineering,     Civil,3.23,2021,130000
+Isaac,        Business,Accounting,2.23,2020,80000
+Omar,        Business, Marketing,2.45,2019,80000
+Nicholas,     Engineering,  Material,2.96,2023,130000
+Anthony,Computer Science,        SW,3.88,2019,95000
+Avery,     Engineering,       CIE,2.92,2022,130000
+Zoey,         Science,Biomedical,2.86,2021,100000
+Youssef,     Engineering,     Civil,3.75,2022,130000
+Madison,         Science,  Nanotech,2.97,2022,100000
+Sophia Clark,        Business,   Finance,3.3,2019,80000
+Christian,Computer Science,      DSAI,2.44,2021,95000
+Sophie,Computer Science,        IT,2.8,2020,95000
+Hannah,         Science,Biomedical,3.27,2023,100000
+Andrew,        Business, Marketing,2.22,2019,80000
+Zara,        Business,Accounting,3.47,2021,80000
+Lily,         Science,  Nanotech,3.39,2023,100000
+Luke,Computer Science,      DSAI,2.46,2020,95000
+Eli,     Engineering,  Material,3.76,2020,130000
+Leah,     Engineering,     Civil,3.43,2023,130000
+Aaron,        Business,   Finance,3.79,2023,80000
+Hassan,Computer Science,        IT,2.95,2020,95000
+Mariam,Computer Science,        SW,2.46,2020,95000
+Victoria,     Engineering,       CIE,2.58,2023,130000
+Nour,Computer Science,        SW,3.76,2021,95000
+Nora,        Business,Accounting,2.03,2019,80000
+Khalid,     Engineering,  Material,2.02,2021,130000
+Claire,         Science,  Nanotech,2.22,2022,100000
+Michael,        Business,   Finance,3.19,2023,80000
+Mahmoud,Computer Science,      DSAI,3.95,2022,95000
+Liam,Computer Science,        IT,2.14,2023,95000
+Layla,        Business, Marketing,3.87,2021,80000
+Emily Smith,     Engineering,       CIE,3.18,2020,130000
+Olivia Davis,     Engineering,     Civil,3.48,2021,130000
+Sophia,         Science,Biomedical,3.41,2023,100000
+Michael Wong,Computer Science,      DSAI,2.42,2021,95000
+Fatima,Computer Science,        SW,2.9,2021,95000
+Adam,     Engineering,     Civil,2.94,2023,130000
+Amelia,Computer Science,        IT,2.94,2023,95000
+Gabriel,         Science,Biomedical,3.89,2021,100000
+Lucas,         Science,  Nanotech,2.95,2023,100000
+Grace,        Business,   Finance,3.79,2019,80000
+Eleanor,        Business,Accounting,3.3,2020,80000
+Charlotte,        Business, Marketing,3.55,2020,80000
+Stella,     Engineering,  Material,2.42,2023,130000
+Ella,     Engineering,       CIE,3.29,2021,130000
+Zainab,         Science,Biomedical,2.22,2020,100000
+William,     Engineering,  Material,3.17,2019,130000
+Ethan,     Engineering,     Civil,2.09,2020,130000
+Amir,        Business, Marketing,2.08,2020,80000
+Noah,         Science,  Nanotech,3.4,2019,100000
+Dylan,     Engineering,       CIE,2.61,2022,130000
+Matthew,Computer Science,      DSAI,3.92,2020,95000
+Paisley,Computer Science,        SW,3.97,2019,95000
+Alex Johnson,        Business,   Finance,2.84,2020,80000
+Landon,Computer Science,        IT,2.63,2023,95000
+Henry,        Business,Accounting,3.74,2023,80000
+Connor,Computer Science,        SW,3.37,2022,95000
+Aurora,Computer Science,      DSAI,3.54,2020,95000
+Audrey,        Business,   Finance,2.35,2020,80000
+Anna,     Engineering,       CIE,2.18,2022,130000
+Mason,     Engineering,  Material,3.34,2022,130000
+Isabella,        Business, Marketing,2.31,2021,80000
+Brooklyn,     Engineering,     Civil,2.99,2022,130000
+Luna,Computer Science,        IT,2.67,2019,95000
+Jacob,         Science,  Nanotech,2.86,2020,100000
+Evelyn,         Science,Biomedical,3.35,2023,100000
+Emma,        Business,Accounting,2.26,2020,80000
+Savannah,Computer Science,        IT,2.16,2021,95000
+Caleb,        Business,Accounting,3.09,2022,80000
+Alexander,     Engineering,     Civil,3.16,2022,130000
+Oliver,     Engineering,       CIE,3.37,2021,130000
+Adrian,        Business, Marketing,2.29,2019,80000
+Benjamin,         Science,Biomedical,3.09,2022,100000
+Ryan,         Science,  Nanotech,3.7,2022,100000
+Penelope,        Business,   Finance,2.49,2020,80000
+Joseph,Computer Science,        SW,2.78,2020,95000
+Addison,Computer Science,      DSAI,2.43,2021,95000
+Mia,     Engineering,  Material,2.4,2022,130000
+Grace,Computer Science,      DSAI,2.32,2019,95000
+Jeremiah,     Engineering,     Civil,3.37,2023,130000
+Daniel,         Science,Biomedical,3.93,2022,100000
+Jackson,        Business,Accounting,2.71,2019,80000
+Hazel,     Engineering,       CIE,2.18,2021,130000
+Thomas,Computer Science,        IT,3.09,2020,95000
+Tariq,         Science,  Nanotech,2.82,2020,100000
+Bella,        Business,   Finance,2.03,2023,80000
+Aaliyah,        Business, Marketing,3.96,2021,80000
+Lillian,     Engineering,  Material,3.21,2019,130000
+Ali,Computer Science,        SW,2.64,2020,95000
+Maya,     Engineering,  Material,3.09,2022,130000
+Emily,     Engineering,       CIE,2.59,2020,130000
+Violet,Computer Science,        IT,2.55,2020,95000
+Jasmine,     Engineering,     Civil,3.48,2021,130000
+Lucy,         Science,Biomedical,3.64,2021,100000
+Ava,        Business,   Finance,3.62,2019,80000
+David,         Science,  Nanotech,2.08,2021,100000
+Samuel,Computer Science,        SW,2.2,2021,95000
+Christopher,Computer Science,      DSAI,3.06,2019,95000
+Olivia,        Business, Marketing,3.05,2022,80000
+Aiden,        Business,Accounting,3.99,2021,80000
+Camila,        Business,Accounting,2.95,2021,80000
+William,Computer Science,      DSAI,2.12,2021,95000
+Elizabeth,Computer Science,        SW,3.29,2019,95000
+Mohammed,         Science,  Nanotech,3.78,2021,100000
+Hunter,        Business,   Finance,3.6,2019,80000
+James,     Engineering,       CIE,3.28,2023,130000
+Liam Martinez,        Business, Marketing,2.23,2023,80000
+Sarah Lee,Computer Science,        IT,3.08,2023,95000
+Ethan Miller,     Engineering,  Material,2.46,2022,130000
+Nathan,     Engineering,     Civil,3.25,2023,130000
+Riley,         Science,Biomedical,3.53,2022,100000
+Ava Garcia,Computer Science,        IT,3.77,2021,95000
+Lina,     Engineering,     Civil,2.1,2019,130000
+Amina,Computer Science,        SW,3.46,2019,95000
+basel,         Science,  Nanotech,3.92,2021,100000
+Sofia,        Business,Accounting,2.96,2021,80000
+Asher,Computer Science,      DSAI,2.14,2021,95000
+Muhammad,        Business,   Finance,3.01,2019,80000
+Karim,     Engineering,       CIE,2.11,2019,130000
+Chloe,         Science,Biomedical,2.4,2022,100000
+Brayden,     Engineering,  Material,3.07,2023,130000
+Abigail,        Business, Marketing,2.35,2023,80000
+Ahmed,     Engineering,  Material,2.29,2020,130000
+Skylar,        Business,Accounting,3.38,2021,80000
+Zahra,Computer Science,      DSAI,2.36,2020,95000
+Aisha,        Business, Marketing,2.68,2023,80000
+Daniel Brown,         Science,  Nanotech,2.88,2019,100000
+Ellie,     Engineering,     Civil,3.82,2023,130000
+Jonathan,        Business,   Finance,2.85,2022,80000
+rihana,     Engineering,       CIE,3.92,2022,130000
+Scarlett,         Science,Biomedical,3.63,2021,100000
+Elijah,Computer Science,        SW,3.35,2019,95000
+Harper,Computer Science,        IT,3.1,2022,95000
+Isaac,     Engineering,     Civil,3.37,2023,130000
+Omar,     Engineering,  Material,2.19,2019,130000
+Nicholas,         Science,Biomedical,2.24,2023,100000
+Anthony,        Business,Accounting,3.67,2019,80000
+Avery,        Business,   Finance,2.95,2019,80000
+Zoey,Computer Science,        SW,3.27,2022,95000
+Youssef,Computer Science,        IT,2.73,2019,95000
+Madison,         Science,  Nanotech,2.15,2022,100000
+Sophia Clark,        Business, Marketing,3.76,2020,80000
+Christian,Computer Science,      DSAI,2.91,2023,95000
+Sophie,     Engineering,       CIE,2.22,2022,130000
+Hannah,     Engineering,       CIE,2.51,2021,130000
+Andrew,Computer Science,        IT,2.26,2021,95000
+Zara,        Business, Marketing,3.67,2023,80000
+Lily,        Business,   Finance,3.86,2023,80000
+Luke,         Science,  Nanotech,2.55,2023,100000
+Eli,Computer Science,      DSAI,2.93,2022,95000
+Leah,     Engineering,  Material,2.61,2021,130000
+Aaron,     Engineering,     Civil,3.39,2021,130000
+Hassan,        Business,Accounting,2.19,2022,80000
+Mariam,Computer Science,        SW,2.24,2023,95000
+Victoria,         Science,Biomedical,3.8,2021,100000
+Nour,Science,,,2022,100000
+Nora,     Engineering,Biomedical,3.18,2019,130000
+Khalid,     Engineering,  Material,3.3,2020,130000
+Claire,Computer Science,     Civil,3.94,2022,95000
+Michael,        Business,        IT,2.72,2020,80000
+Mahmoud,        Business, Marketing,3.1,2019,80000
+Liam,Computer Science,Accounting,3.37,2020,95000
+Layla,     Engineering,        SW,3.79,2020,130000
+Emily Smith,        Business,       CIE,3.9,2023,80000
+Olivia Davis,Computer Science,   Finance,3.37,2021,95000
+Sophia,         Science,      DSAI,3.92,2021,100000
+Michael Wong,         Science,  Nanotech,2.98,2021,100000
+Fatima,     Engineering,  Nanotech,3.08,2020,130000
+Adam,     Engineering,     Civil,2.5,2020,130000
+Amelia,        Business,       CIE,2.9,2022,80000
+Gabriel,Computer Science,   Finance,3.7,2021,95000
+Lucas,        Business,        SW,3.56,2020,80000
+Grace,Computer Science, Marketing,2.83,2020,95000
+Eleanor,         Science,      DSAI,3.02,2022,100000
+Charlotte,     Engineering,Biomedical,2.53,2023,130000
+Stella,Computer Science,  Material,3.63,2020,95000
+Ella,        Business,        IT,2.07,2020,80000
+Zainab,     Engineering,Accounting,2.72,2023,130000
+William,        Business,       CIE,3.3,2023,80000
+Ethan,         Science, Marketing,2.8,2022,100000
+Amir,         Science,  Nanotech,2.29,2023,100000
+Noah,Computer Science,Biomedical,2.69,2022,95000
+Dylan,     Engineering,        IT,2.58,2021,130000
+Matthew,Computer Science,     Civil,3.62,2023,95000
+Paisley,        Business,      DSAI,3.6,2023,80000
+Alex Johnson,        Business,Accounting,3.65,2019,80000
+Landon,Computer Science,   Finance,2.56,2020,95000
+Henry,     Engineering,        SW,3.16,2019,130000
+Connor,     Engineering,  Material,2.26,2020,130000
+Aurora,         Science,  Material,3.71,2020,100000
+Audrey,Computer Science,  Nanotech,3.47,2020,95000
+Anna,Computer Science,      DSAI,2.88,2023,95000
+Mason,        Business,        SW,3.7,2023,80000
+Isabella,Computer Science,   Finance,3.13,2022,95000
+Brooklyn,     Engineering,        IT,2.16,2022,130000
+Luna,        Business,     Civil,2.58,2021,80000
+Jacob,         Science, Marketing,2.72,2023,100000
+Evelyn,        Business,Biomedical,2.24,2023,80000
+Emma,     Engineering,Accounting,3.76,2022,130000
+Savannah,Computer Science,       CIE,3.04,2020,95000
+Caleb,        Business,      DSAI,2.34,2019,80000
+Alexander,     Engineering,   Finance,3.17,2021,130000
+Oliver,         Science,     Civil,3.26,2019,100000
+Adrian,Computer Science,  Nanotech,3.17,2019,95000
+Benjamin,        Business,        IT,2.6,2023,80000
+Ryan,     Engineering, Marketing,2.09,2022,130000
+Penelope,     Engineering,  Material,3.74,2022,130000
+Joseph,Computer Science,       CIE,3.92,2023,95000
+Addison,         Science,        SW,2.72,2023,100000
+Mia,        Business,Biomedical,2.11,2020,80000
+Grace,Computer Science,Accounting,2.14,2020,95000
+Jeremiah,     Engineering,      DSAI,3.03,2023,130000
+Daniel,Computer Science,     Civil,2.09,2019,95000
+Jackson,         Science,        SW,2.32,2021,100000
+Hazel,        Business,  Nanotech,3.5,2023,80000
+Thomas,         Science,   Finance,2.65,2023,100000
+Tariq,Computer Science,Biomedical,2.61,2020,95000
+Bella,     Engineering,        IT,4,2022,130000
+Aaliyah,     Engineering,  Material,3.21,2022,130000
+Lillian,        Business,       CIE,2.75,2021,80000
+Ali,        Business,Accounting,2.77,2023,80000
+Maya,     Engineering, Marketing,3.53,2022,130000
+Emily,         Science,  Material,2.22,2023,100000
+Violet,         Science,  Nanotech,2.13,2020,100000
+Jasmine,        Business,Biomedical,2.58,2021,80000
+Lucy,        Business,Accounting,3.77,2019,80000
+Ava,        Business,   Finance,2.75,2021,80000
+David,Computer Science, Marketing,2.11,2019,95000
+Samuel,     Engineering,        SW,2.39,2019,130000
+Christopher,Computer Science,     Civil,3.97,2022,95000
+Olivia,Computer Science,        IT,3.67,2019,95000
+Aiden,     Engineering,      DSAI,2.14,2020,130000
+Camila,Computer Science,       CIE,3.17,2023,95000
+William,     Engineering,        IT,3.27,2022,130000
+Elizabeth,     Engineering,  Material,2.93,2020,130000
+Mohammed,        Business,       CIE,2.01,2023,80000
+Hunter,        Business,   Finance,2.93,2021,80000
+James,         Science,Accounting,3.76,2023,100000
+Liam Martinez,Computer Science,  Nanotech,3.38,2022,95000
+Sarah Lee,         Science,      DSAI,2.08,2023,100000
+Ethan Miller,Computer Science,Biomedical,3.73,2023,95000
+Nathan,     Engineering,        SW,2.02,2021,130000
+Riley,        Business,     Civil,4,2023,80000
+Ava Garcia,        Business, Marketing,3.49,2022,80000
+Lina,        Business,Accounting,3.21,2023,80000
+Amina,     Engineering,   Finance,2.18,2019,130000
+basel,Computer Science,     Civil,2.74,2020,95000
+Sofia,         Science,        IT,3.9,2022,100000
+Asher,Computer Science,Biomedical,2.68,2021,95000
+Muhammad,Computer Science,      DSAI,3.9,2019,95000
+Karim,        Business,        SW,3.1,2022,80000
+Chloe,     Engineering, Marketing,3.07,2020,130000
+Brayden,     Engineering,  Material,3.59,2023,130000
+Abigail,         Science,       CIE,2.16,2020,100000
+Ahmed,     Engineering,  Nanotech,2.37,2023,130000
+Skylar,Computer Science,  Material,2.46,2023,95000
+Zahra,     Engineering,      DSAI,3.28,2019,130000
+Aisha,     Engineering,       CIE,2.84,2020,130000
+Daniel Brown,Computer Science,     Civil,3.19,2023,95000
+Ellie,        Business,        SW,3.97,2023,80000
+Jonathan,         Science,   Finance,3.48,2022,100000
+rihana,        Business,  Nanotech,2.14,2023,80000
+Scarlett,Computer Science,Accounting,2.49,2021,95000
+Elijah,        Business,        IT,3.78,2021,80000
+Harper,         Science, Marketing,3.44,2020,100000
+Isaac,     Engineering,Biomedical,2.51,2023,130000
+Omar,Computer Science,       CIE,2.41,2023,95000
+Nicholas,     Engineering,        SW,2.04,2021,130000
+Anthony,     Engineering,  Material,2.39,2019,130000
+Avery,        Business,     Civil,2.92,2019,80000
+Zoey,         Science,Accounting,3.71,2022,100000
+Youssef,Computer Science,  Nanotech,2.85,2023,95000
+Madison,        Business,      DSAI,3.19,2020,80000
+Sophia Clark,Computer Science,   Finance,3.76,2019,95000
+Christian,         Science,        IT,3.79,2019,100000
+Sophie,        Business,Biomedical,2.24,2020,80000
+Hannah,Computer Science, Marketing,3.15,2019,95000
+Andrew,     Engineering,        IT,2.45,2020,130000
+Zara,         Science,  Material,2.1,2022,100000
+Lily,        Business,  Nanotech,2.36,2023,80000
+Luke,         Science, Marketing,2.34,2019,100000
+Eli,        Business,Biomedical,2.57,2021,80000
+Leah,     Engineering,Accounting,2.28,2021,130000
+Aaron,        Business,     Civil,3.62,2022,80000
+Hassan,     Engineering,   Finance,3.58,2019,130000
+Mariam,Computer Science,       CIE,2.44,2019,95000
+Victoria,Computer Science,      DSAI,2.63,2023,95000
+Nour,        Business,        SW,3.38,2021,80000
+Nora,Computer Science,   Finance,2.36,2021,95000
+Khalid,     Engineering,        SW,2.16,2022,130000
+Claire,     Engineering,     Civil,2.56,2021,130000
+Michael,        Business,  Material,3.86,2022,80000
+Mahmoud,         Science, Marketing,2.21,2022,100000
+Liam,Computer Science,Biomedical,3.97,2020,95000
+Layla,     Engineering,      DSAI,2.84,2022,130000
+Emily Smith,        Business,       CIE,3.07,2020,80000
+Olivia Davis,         Science,Accounting,2.63,2023,100000
+Sophia,Computer Science,  Nanotech,2.59,2023,95000
+Michael Wong,Computer Science,        IT,3.63,2023,95000
+Fatima,Computer Science,        SW,2.05,2021,95000
+Adam,     Engineering,        IT,2.26,2023,130000
+Amelia,        Business,  Material,2.38,2022,80000
+Gabriel,         Science,Accounting,3.13,2022,100000
+Lucas,        Business,  Nanotech,3.38,2023,80000
+Grace,        Business, Marketing,3.01,2019,80000
+Eleanor,Computer Science,   Finance,3.21,2021,95000
+Charlotte,     Engineering,      DSAI,2.48,2021,130000
+Stella,     Engineering,       CIE,2.83,2019,130000
+Ella,         Science,     Civil,3.82,2022,100000
+Zainab,        Business,Biomedical,2.72,2019,80000
+William,     Engineering,   Finance,3.44,2020,130000
+Ethan,     Engineering,     Civil,3.24,2019,130000
+Amir,Computer Science,       CIE,2.81,2019,95000
+Noah,         Science,        SW,2.72,2023,100000
+Dylan,Computer Science,  Nanotech,2.9,2022,95000
+Matthew,Computer Science,        IT,2.03,2020,95000
+Paisley,         Science,      DSAI,2.95,2020,100000
+Alex Johnson,        Business,Biomedical,2.91,2020,80000
+Landon,        Business,Accounting,2.87,2021,80000
+Henry,     Engineering, Marketing,3.74,2021,130000
+Connor,Computer Science,  Material,2.77,2020,95000
+Aurora,        Business,      DSAI,2.73,2021,80000
+Audrey,     Engineering,Accounting,3.07,2022,130000
+Anna,Computer Science,     Civil,2.87,2019,95000
+Mason,        Business,        SW,2.82,2021,80000
+Isabella,        Business, Marketing,2.65,2020,80000
+Brooklyn,         Science,   Finance,3.39,2021,100000
+Luna,     Engineering,Biomedical,3.63,2020,130000
+Jacob,Computer Science,       CIE,2.11,2022,95000
+Evelyn,         Science,        IT,2.07,2020,100000
+Emma,     Engineering,  Nanotech,3.14,2019,130000
+Savannah,         Science,  Material,2.04,2020,100000
+Caleb,     Engineering,  Nanotech,2.24,2021,130000
+Alexander,Computer Science,     Civil,4,2019,95000
+Oliver,     Engineering,      DSAI,3.2,2022,130000
